@@ -1,0 +1,2 @@
+ let simage = "";
+ simage = 'https://webdnp.devoop.net/botany/webservice/mplant/dataqr/' + row.code + '.png';
